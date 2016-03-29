@@ -1,14 +1,5 @@
 
-
-
- ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-'  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-|  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-'  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
- `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
------------------------------------------------------------------ 
-
-Set of a Phyton virtual environment for Flask with PyPy + Redis on a C9 workspace
+Setup of a Phyton virtual environment for Flask with PyPy + Redis on a C9 workspace
 
 1) Name your workspace: flask-benchmark
 
