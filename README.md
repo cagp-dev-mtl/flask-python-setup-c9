@@ -18,4 +18,5 @@ cd ~/pypy-venv/
 . bin/activate
 
 Start web server (PyPy, Flask)
+
 cd ~/workspace pypy YOUR_APPLICATION_NAME.py
